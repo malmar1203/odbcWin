@@ -2,3 +2,5 @@
 > testing mariadb odbc connector
 
 base cloned from https://learn.microsoft.com/de-de/sql/connect/odbc/cpp-code-example-app-connect-access-sql-db
+
+foo
