@@ -4,3 +4,5 @@
 base cloned from https://learn.microsoft.com/de-de/sql/connect/odbc/cpp-code-example-app-connect-access-sql-db
 
 https://stackoverflow.com/questions/1148169/invalid-cursor-state-when-attempt-to-close
+
+https://learn.microsoft.com/en-us/sql/odbc/reference/syntax/sqlclosecursor-function?view=sql-server-ver16
