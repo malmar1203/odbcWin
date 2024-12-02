@@ -6,3 +6,5 @@ base cloned from https://learn.microsoft.com/de-de/sql/connect/odbc/cpp-code-exa
 https://stackoverflow.com/questions/1148169/invalid-cursor-state-when-attempt-to-close
 
 https://learn.microsoft.com/en-us/sql/odbc/reference/syntax/sqlclosecursor-function?view=sql-server-ver16
+
+https://learn.microsoft.com/en-us/sql/connect/connect-history?view=sql-server-ver16#odbc
